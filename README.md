@@ -1,2 +1,3 @@
 # ilk_repo
-Github ile ilk repository oluşturma.
+
+Merhaba Github ile ilk repository oluşturuyorum.
